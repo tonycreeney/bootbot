@@ -1,2 +1,3 @@
-# bootbot
-It reads books. Obviously.
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
